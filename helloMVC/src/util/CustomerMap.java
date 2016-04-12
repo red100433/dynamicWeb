@@ -13,6 +13,8 @@ public class CustomerMap {
 		addCustomer ( new Customer("id001", "Alice", "alice@hansung.ac.kr"));
 		addCustomer ( new Customer("id002", "Bob", "bob@hansung.ac.kr"));
 		addCustomer ( new Customer("id003", "Charlie", "charlie@hansung.ac.kr"));
+		addCustomer ( new Customer("id004", "David", "david@hansung.ac.kr"));
+		addCustomer ( new Customer("id005", "Trudy", "Trudy@hansung.ac.kr"));
 	}
 
 	private void addCustomer(Customer customer) {
